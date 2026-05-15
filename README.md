@@ -1,4 +1,3 @@
-<!--<!DOCTYPE html>-->
 <html lang="ar" dir="rtl">
 <head>
     <meta charset="UTF-8">
@@ -659,13 +658,14 @@
             <a href="#"><i class="fab fa-tiktok"></i></a>
         </div>
         <div class="contact-info">
-            <p><i class="fas fa-map-marker-alt"></i> الجزائر - الجزائر العاصمة، الطريق السريع شرق غرب</p>
-            <p><i class="fas fa-envelope"></i> Email: contact@alhaqni.com &nbsp;|&nbsp; <i class="fas fa-phone"></i> الهاتف: +213 555 00 11 22</p>
+            <p><i class="fas fa-map-marker-alt"></i> الجزائر - الجلفة، الطريق السريع شرق غرب</p>
+            <p><i class="fas fa-envelope"></i> Email: vixfull516@gmail.com
+ &nbsp;|&nbsp; <i class="fas fa-phone"></i> الهاتف: +213 555 00 11 22</p>
             <p><i class="fas fa-clock"></i> خدمة العملاء متاحة 24/7 طوال أيام الأسبوع</p>
             <p class="glow-text" style="margin-top:0.5rem;">شعارنا: <strong>مشكلتك خليها علينا</strong> - لأن سلامتكم أولويتنا</p>
         </div>
         <hr>
-        <p class="glow-text">© 2025 الحقني — مساعدة الطريق بلا حدود | مشكلتك خليها علينا | تصميم فضائي احترافي</p>
+        <p class="glow-text">© 2026 الحقني — مساعدة الطريق بلا حدود | مشكلتك خليها علينا | تصميم فضائي احترافي</p>
     </div>
 </div>
 
